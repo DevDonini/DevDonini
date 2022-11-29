@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nicolas.donini/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-donini-de-oliveira-903a621a6/)
 
-![Donini GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasDonini&show_icons=true&theme=radical)
+![Donini GitHub stats](https://github-readme-stats.vercel.app/api?username=DevDonini&show_icons=true&theme=radical)
 
 ## Tecnologias que eu uso no meu dia
 <Br>
